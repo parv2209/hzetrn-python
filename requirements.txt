@@ -1,0 +1,7 @@
+# Core dependencies (minimal - standard library only)
+# Python 3.8+
+
+# Development dependencies (optional)
+# pytest>=7.0
+# black>=23.0
+# pylint>=2.15
